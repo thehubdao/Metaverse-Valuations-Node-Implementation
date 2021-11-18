@@ -6,10 +6,10 @@ A bunch of sample contracts and scripts that can be used as inspiration to build
 This repo is structured like a truffle project. 
 Here is a list of what each folder contains:
 
-contracts/ : Actual Solidity code.
-build/ : .json artifacts for all the contracts that this repo needs.
-migrations/ : Deployment scripts for the contracts.
-scripts/ : scripts for programatically interacting with contracts that are already deployed somewhere.
+contracts/ : Actual Solidity code.<br>
+build/ : .json artifacts for all the contracts that this repo needs.<br>
+migrations/ : Deployment scripts for the contracts.<br>
+scripts/ : scripts for programatically interacting with contracts that are already deployed somewhere.<br>
 
 <h3>Dependencies</h3>
 <p>
@@ -25,13 +25,13 @@ To install them go to the root and type:
 </p>
 
 <h3>Guide for new developers</h3>
-If you are just starting out we recommend interacting via the GUI remix.ethereum.org offers.
-To interact with the SingleConsumerSample contract in remix simply follow these steps:
-    1. Copy the contract code from the contracts/ folder.
-    2. Paste the contract in a new file in remix workspace.
-    3. compile the file with the specified compiler version.
-    4. Select injected web3 to interact with the chain specified in your metamask.
-    5. deploy the contract anew or paste an address and load it there.
+If you are just starting out we recommend interacting via the GUI remix.ethereum.org offers.<br>
+To interact with the SingleConsumerSample contract in remix simply follow these steps:<br>
+    1. Copy the contract code from the contracts/ folder.<br>
+    2. Paste the contract in a new file in remix workspace.<br>
+    3. compile the file with the specified compiler version.<br>
+    4. Select injected web3 to interact with the chain specified in your metamask.<br>
+    5. deploy the contract anew or paste an address and load it there.<br>
 
 <h3>Deployments</h3>
 
