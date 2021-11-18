@@ -2,7 +2,6 @@
 A bunch of sample contracts and scripts that can be used as inspiration to build on top of services we provide.
 
 <h3>Repository Structure</h3>
-
 This repo is structured like a truffle project. 
 Here is a list of what each folder contains:
 <ul>
@@ -13,7 +12,7 @@ Here is a list of what each folder contains:
 </ul>
 
 <h3>Dependencies</h3>
-<p>
+
 Other than truffle we the repo makes use of these packages:
 @chainlink/contracts
 @openzeppelin/contracts
@@ -23,7 +22,6 @@ To install them go to the root and type:
 <code> npm install @chainlink/contracts </code>
 
 <code> npm install @openzeppelin/contracts </code>
-</p>
 
 <h3>Guide for new developers</h3>
 <ol>
