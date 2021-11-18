@@ -33,5 +33,10 @@ To interact with the SingleConsumerSample contract in remix simply follow these 
     4. Select injected web3 to interact with the chain specified in your metamask.
     5. deploy the contract anew or paste an address and load it there.
 
+<h3>Deployments</h3>
+
+<h4>Rinkeby:</h4>
+* SingleConsumerSample:         0x277870154A1e536b5f9e723A0AdDEe98EaABd52B
+* Operator (Chainlink Oracle):  0x83a9F5733511297A227B787297E9A3091b5BCf86
 
     
