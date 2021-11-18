@@ -17,7 +17,7 @@ Other than truffle we the repo makes use of these packages:<br>
 <ul>
 <li>@chainlink/contracts</li>
 <li>@openzeppelin/contracts</li>
-
+</ul>
 To install them go to the root and type:
 
 <code> npm install @chainlink/contracts </code>
