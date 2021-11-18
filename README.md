@@ -13,9 +13,9 @@ Here is a list of what each folder contains:
 
 <h3>Dependencies</h3>
 
-Other than truffle we the repo makes use of these packages:
-@chainlink/contracts
-@openzeppelin/contracts
+Other than truffle we the repo makes use of these packages:<br>
+@chainlink/contracts<br>
+@openzeppelin/contracts<br>
 
 To install them go to the root and type:
 
@@ -33,7 +33,6 @@ To install them go to the root and type:
 </ol>
 
 <h3>Deployments</h3>
-
 <h4>Rinkeby:</h4>
 <ul>
 <li>SingleConsumerSample:         0x277870154A1e536b5f9e723A0AdDEe98EaABd52B</li>
