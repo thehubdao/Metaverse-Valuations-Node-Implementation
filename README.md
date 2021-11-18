@@ -5,11 +5,12 @@ A bunch of sample contracts and scripts that can be used as inspiration to build
 
 This repo is structured like a truffle project. 
 Here is a list of what each folder contains:
-
-contracts/ : Actual Solidity code.<br>
-build/ : .json artifacts for all the contracts that this repo needs.<br>
-migrations/ : Deployment scripts for the contracts.<br>
-scripts/ : scripts for programatically interacting with contracts that are already deployed somewhere.<br>
+<ul>
+<li>contracts/ : Actual Solidity code.</li>
+<li>build/ : .json artifacts for all the contracts that this repo needs.</li>
+<li>migrations/ : Deployment scripts for the contracts.</li>
+<li>scripts/ : scripts for programatically interacting with contracts.</li>
+</ul>
 
 <h3>Dependencies</h3>
 <p>
