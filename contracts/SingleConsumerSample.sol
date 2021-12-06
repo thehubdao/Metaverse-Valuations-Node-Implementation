@@ -15,7 +15,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract SingleConsumerSample is ChainlinkClient, Ownable {
     using Chainlink for Chainlink.Request;
 
-    // jobId to call on the oracle
+    // jobId to call on the oracle (this is the rinkeby testnet jobId)
     bytes32 public jobId = "bb45e634c4704d02a90706625ac49d2d";
     // amount of Link the oracle receives as payment (18 decimals)
     uint256 public payment;
@@ -35,7 +35,7 @@ contract SingleConsumerSample is ChainlinkClient, Ownable {
 
     /// @dev gets called only once when deploying
     /// @dev sets the oracle parameters via the methods inherited by ChainlinkClient.sol
-    /// @notice payment can be 0 here for easier testing
+    /// @notice payment can be 0 here for testing on rinkeby
     constructor(address _oracle, address _linkToken, uint256 _payment) {
         payment = _payment;
         setChainlinkToken(_linkToken);
