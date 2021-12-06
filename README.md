@@ -40,5 +40,8 @@ To install them go to the root and type:
 <li>Operator (Chainlink Oracle):  0x83a9F5733511297A227B787297E9A3091b5BCf86</li>
 </ul>
 
+<h3>Additional ressources</h3>
+We use chainlink architecture for our oracle. 
+For more information on Chainlink check out their docs under: https://docs.chain.link/
 
     
