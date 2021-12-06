@@ -43,5 +43,9 @@ To install them go to the root and type:
 <h4>Ethereum mainnet:</h4>
 --- follows soon ---
 
+<h3>Additional ressources</h3>
+We use chainlink architecture for our oracle. 
+For more information on Chainlink check out their docs under: https://docs.chain.link/
+
 
     
