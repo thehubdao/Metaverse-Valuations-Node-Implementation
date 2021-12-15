@@ -50,7 +50,7 @@ contract SingleConsumerSample is ChainlinkClient, Ownable {
     */
     function requestNFTvalue(uint256 id) public {
         Chainlink.Request memory req = buildChainlinkRequest(jobId, address(this), this.fulfillRequest.selector);
-        req.addUint("inputId", id);
+        req.addUint("tokenId", id);
         bytes32 _requestId = sendChainlinkRequest(req, payment);
         idByRequest[_requestId] = id;
     }
