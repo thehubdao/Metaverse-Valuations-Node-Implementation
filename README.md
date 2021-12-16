@@ -45,8 +45,8 @@ To install them go to the root and type:
 </ul>
 <h4>Rinkeby:</h4>
 <ul>
-<li>SingleConsumerSample:        0x9AEF9600385A7639030C22d667826A0F1ABc0782</li>
-<li>Operator (Oracle Contract):  0x83a9F5733511297A227B787297E9A3091b5BCf86</li>
+<li>SingleConsumerSample:        [0x9AEF9600385A7639030C22d667826A0F1ABc0782](https://rinkeby.etherscan.io/address/0x9AEF9600385A7639030C22d667826A0F1ABc0782)</li>
+<li>Operator (Oracle Contract):  [0x83a9F5733511297A227B787297E9A3091b5BCf86](https://rinkeby.etherscan.io/address/0x83a9F5733511297A227B787297E9A3091b5BCf86)</li>
 <li>Job_Id:                      "055d534f03fd4005ba60ec3754fe8b77"</li>
 <li>Payment:                     0 Link</li>
 </ul>
