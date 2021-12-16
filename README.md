@@ -32,7 +32,7 @@ To install them go to the root and type:
 <li>Select injected web3 to interact with the chain specified in your metamask.</li>
 <li>deploy the contract anew or paste an address and load it there.</li>
 </ol>
-
+<pre>
 <h3>Deployments</h3>
 <b>
    <h4>Sandbox Oracles:<h4>
@@ -41,14 +41,14 @@ To install them go to the root and type:
 <ul>
 <li>SingleConsumerSample:
 <li>Operator (Oracle Contract):  0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F</li>
-<li>Job_Id:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"e770f4e4d7974b0c92857674527930fc"</li>
+<li>Job_Id:                      "e770f4e4d7974b0c92857674527930fc"</li>
 </ul>
 <h4>Rinkeby:</h4>
 <ul>
 <li>SingleConsumerSample:        0x277870154A1e536b5f9e723A0AdDEe98EaABd52B</li>
 <li>Operator (Oracle Contract):  0x83a9F5733511297A227B787297E9A3091b5BCf86</li>
 </ul>
-
+</pre>
 <h3>Additional ressources</h3>
 We use chainlink architecture for our oracle. 
 For more information on Chainlink check out their docs under: https://docs.chain.link/
