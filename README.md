@@ -34,10 +34,17 @@ To install them go to the root and type:
 </ol>
 
 <h3>Deployments</h3>
+<b>
+   <h4>Sandbox Oracles:<h4>
+</b>
+<h4>Mainnet:</h4>
+<ul>SingleConsumerSample:
+<li>Operator (Oracle Contract):  0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F
+<li>Job_Id:                      "e770f4e4d7974b0c92857674527930fc"
 <h4>Rinkeby:</h4>
 <ul>
-<li>SingleConsumerSample:         0x277870154A1e536b5f9e723A0AdDEe98EaABd52B</li>
-<li>Operator (Chainlink Oracle):  0x83a9F5733511297A227B787297E9A3091b5BCf86</li>
+<li>SingleConsumerSample:        0x277870154A1e536b5f9e723A0AdDEe98EaABd52B</li>
+<li>Operator (Oracle Contract):  0x83a9F5733511297A227B787297E9A3091b5BCf86</li>
 </ul>
 
 <<<<<<< HEAD
