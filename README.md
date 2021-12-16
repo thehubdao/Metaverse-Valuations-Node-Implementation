@@ -42,6 +42,7 @@ To install them go to the root and type:
 <li>SingleConsumerSample:
 <li>Operator (Oracle Contract):  0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F
 <li>Job_Id:                      "e770f4e4d7974b0c92857674527930fc"
+<ul>
 <h4>Rinkeby:</h4>
 <ul>
 <li>SingleConsumerSample:        0x277870154A1e536b5f9e723A0AdDEe98EaABd52B</li>
