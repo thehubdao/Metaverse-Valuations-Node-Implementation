@@ -38,7 +38,7 @@ To install them go to the root and type:
 
 <h4>Mainnet:</h4>
 <ul>
-<li>SingleConsumerSample:        Coming Soon
+<li>SingleConsumerSample:        Coming Soon</li>
 <li>Operator (Oracle Contract):  0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F</li>
 <li>Job_Id:                      "e770f4e4d7974b0c92857674527930fc"</li>
 <li>Payment:                     1 Link</li>
