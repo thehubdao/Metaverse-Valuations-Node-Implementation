@@ -34,9 +34,8 @@ To install them go to the root and type:
 </ol>
 <pre>
 <h3>Deployments</h3>
-<b>
-   <h4>Sandbox Oracles:<h4>
-</b>
+<b><h4>Sandbox Oracles:<h4></b>
+
 <h4>Mainnet:</h4>
 <ul>
 <li>SingleConsumerSample:
