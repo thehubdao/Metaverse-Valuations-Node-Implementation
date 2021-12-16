@@ -16,7 +16,7 @@ contract SingleConsumerSample is ChainlinkClient, Ownable {
     using Chainlink for Chainlink.Request;
 
     // jobId to call on the oracle (this is the rinkeby testnet jobId)
-    bytes32 public jobId = "bb45e634c4704d02a90706625ac49d2d";
+    bytes32 public jobId = "055d534f03fd4005ba60ec3754fe8b77";
     // amount of Link the oracle receives as payment (18 decimals)
     uint256 public payment;
 
