@@ -39,14 +39,15 @@ To install them go to the root and type:
 <h4>Mainnet:</h4>
 <ul>
 <li>SingleConsumerSample:        Coming Soon</li>
-<li>Operator (Oracle Contract):  <a href="https://etherscan.io/address/0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F">0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F></a></li>
+<li>Operator (Oracle Contract):  <a href="https://etherscan.io/address/0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F">0x0610868e4Ca6bE003D564519ADB81cbcFcfba22F</a></li>
 <li>Job_Id:                      "e770f4e4d7974b0c92857674527930fc"</li>
 <li>Payment:                     1 Link</li>
+<li>Gas available:               500 000</li>
 </ul>
 <h4>Rinkeby:</h4>
 <ul>
-<li>SingleConsumerSample:        <a href="https://rinkeby.etherscan.io/address/0x9AEF9600385A7639030C22d667826A0F1ABc0782">0x9AEF9600385A7639030C22d667826A0F1ABc0782></a></li>
-<li>Operator (Oracle Contract):  <a href="https://rinkeby.etherscan.io/address/0x83a9F5733511297A227B787297E9A3091b5BCf86">0x83a9F5733511297A227B787297E9A3091b5BCf86></a></li>
+<li>SingleConsumerSample:        <a href="https://rinkeby.etherscan.io/address/0x9AEF9600385A7639030C22d667826A0F1ABc0782">0x9AEF9600385A7639030C22d667826A0F1ABc0782</a></li>
+<li>Operator (Oracle Contract):  <a href="https://rinkeby.etherscan.io/address/0x83a9F5733511297A227B787297E9A3091b5BCf86">0x83a9F5733511297A227B787297E9A3091b5BCf86</a></li>
 <li>Job_Id:                      "055d534f03fd4005ba60ec3754fe8b77"</li>
 <li>Payment:                     0 Link</li>
 </ul>
